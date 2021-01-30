@@ -13,7 +13,7 @@
 Processing</span>
 
 # Education
-- **Graduate Research Assistant**, FICS Lab, ECE, University of Florida (Spring 2021)
+- **Graduate Research Assistant**, [FICS Lab](http://fics.institute.ufl.edu/), ECE, University of Florida (Spring 2021)
 
 - **Master of Science**, Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET) (2019-2020)
 
