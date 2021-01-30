@@ -1,5 +1,3 @@
-<a target="_blank" href="https://tahsin314.github.io/"><img width="550" align="right" src="https://careers.eclerx.com/images/01.jpg"></a>
-
 # Tahsin Mostafiz
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:tahsin314@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
