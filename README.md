@@ -4,9 +4,9 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mohammad-tahsin-mostafiz-276292141/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/tahsin)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin314&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="tahsin314" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tahsin314&label=Profile%20views&color=0e75b6&style=for-the-badge=dark" alt="tahsin314" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
 
 
 # Research Interests
