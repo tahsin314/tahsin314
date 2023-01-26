@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin314&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="tahsin314" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
+
+
 # Research Interests
 
 <span>Machine Learning, Deep Learning, Computer Vision, Natural Language
