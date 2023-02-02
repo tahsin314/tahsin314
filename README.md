@@ -101,11 +101,9 @@ Research Articles
 
 -   **Deep Learning Competitions**
 
-    -   Silver Medal in [
-        ](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
+    -   Silver Medal in ![APTOS 2019 Blindness Detection](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
 
-    -   Bronze Medal in [
-        ](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
+    -   Bronze Medal in ![SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
 
 -   **Student Supervising**
 
