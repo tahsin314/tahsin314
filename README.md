@@ -37,7 +37,7 @@ Bangladesh University of Engineering and Technology (BUET) (2012-2017)
 
 Research Articles
 =================
-
+-   EVHA: Explainable Vision System for Hardware Testing and Assurance - An Overview" MD Mahfuz Al Hasan, **Tahsin Mostafiz**, Thomas An Le, Jake Julia, Nidish      Vashistha,     Shayan Taheri, and Dr. Navid Asadizanjani
 -   Pathology Extraction from Chest X-Ray Radiological Reports: A
     Performance Comparison" **Tahsin Mostafiz**, Dr. Khalid Ashraf
 
@@ -69,5 +69,10 @@ Research Articles
 - **Symptom Checker**, *an Amazon Alexa skill*: This skill was designed to help the users detect disease from symptoms. 
 
 - Implementation of A Deep Domain Adaptation Method for *2018 Visual Domain Adaptation (VisDA) Challenge*.
+
+## My Scores:
+![My Stats](https://github-readme-stats.vercel.app/api?username=tahsin314&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin314&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide=TeX&layout=compact)
+  
 
 
