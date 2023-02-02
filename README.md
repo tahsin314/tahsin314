@@ -52,23 +52,70 @@ Research Articles
     Region 10, Dhaka.
 
 # Professional Projects
-- Co-development of semi-supervised CNN model for abnormality detection in dairy product images.
+-   **Algorithm**
 
-- Backend deep learning algorithm development of [RadAssist](https://www.radassist.net/), a web application for the detection and localization of **Intracranial Hemorrhage** from brain CT images.
+    -   Head and Neck Cancer staging via lymph node segmentation using
+        Convolutional Neural Network (CNN) and volumetric CT images.
 
-- **SemRad**, a Teleradiology Solution: Development of An Inference Tool and a Class Activation Mapping (CAM) Tool Using **ResNet101** for Detection and Localization of Abnormalities in Chest X-ray Images for this software.
+    -   Computed Tomography (CT) image reconstruction for Printed
+        Circuit Boards (PCB) with semi-supervised denoising and artifact
+        suppression techniques.
 
-- Development of a Class Activation Mapping (CAM) Tool Using **ResNet101** for Localizing Abnormalities in Chest X-ray Images.
-  
-- **semDDX**, an Android app: This Android app was designed to help the users navigate the vast landscape of differential diagnoses and help medical students to learn DD easily.
+    -   Counterfeit IC detection from SEM images of IC backsides using
+        image processing and CNN.
 
-- **Risk Factors Detection**: Identification of Risk Factors for Heart Disease from *i2b2* dataset Using a Bidirectional LSTM network with 50 Dimensional Glove Word Embedding.
+    -   Co-development of a semi-supervised CNN model for abnormality
+        detection in dairy product images.
 
-- **Differential Diagnoses**, *an Amazon Alexa skill*: This Alexa skill was designed to help the users find all differential diagnoses for a symptom.
+    -   Backend deep learning algorithm development of [
+        ](https://radassist.net/), a web application for the detection
+        and localization of *Intracranial Hemorrhage* from brain CT
+        images.
 
-- **Symptom Checker**, *an Amazon Alexa skill*: This skill was designed to help the users detect disease from symptoms. 
+    -   Sentiment level analysis using transformer based language models
+        for product review task.
 
-- Implementation of A Deep Domain Adaptation Method for *2018 Visual Domain Adaptation (VisDA) Challenge*.
+    -   Identification of Risk Factors for Heart Disease from *i2b2*
+        dataset Using a Bidirectional LSTM network with 50 Dimensional
+        Glove Word Embedding.
+
+-   **Application**
+
+    -   Co-development of a flutter based android app for electric pole
+        detection from images captured using car dashboard cameras.
+
+    -   Co-development of **SemRad**, an inference tool and a class
+        activation mapping (CAM) Tool Using *ResNet101* for Detection
+        and Localization of Abnormalities in Chest X-ray Images for this
+        software.
+
+    -   **semDDX**, an Android app was designed to help the users
+        navigate the vast landscape of differential diagnoses (DD) and
+        help medical students to learn DD easily.
+
+    -   **Differential Diagnoses**, an Amazon Alexa skill was designed
+        to help the users find all differential diagnoses for a symptom.
+
+    -   **Symptom Checker** an Amazon Alexa skill was designed to help
+        the users detect disease from symptoms.
+
+-   **Deep Learning Competitions**
+
+    -   Silver Medal in [
+        ](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
+
+    -   Bronze Medal in [
+        ](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
+
+-   **Student Supervising**
+
+    -   Mentored an undergraduate student in his thesis work titled
+        *"COVID Infection Analysis via Lung Lobe Segmentation using Deep
+        Learning"*.
+
+    -   Supervised two high-school students to get them familiar with
+        research work in hardware security and machine learning under
+        the *Student Science Training Program (SSTP)*.
 
 ## My Scores:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=tahsin314&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
