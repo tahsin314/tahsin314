@@ -32,7 +32,7 @@ Bangladesh University of Engineering and Technology (BUET) (2012-2017)
 
 # Work Experience
 
-- Machine Learning Engineer, AI Samurai (2019-)
+- Machine Learning Engineer, AI Samurai (2019-2020)
 - Machine Learning Researcher, Semion Limited (2017-2019) 
 
 Research Articles
@@ -52,7 +52,7 @@ Research Articles
     Region 10, Dhaka.
 
 # Professional Projects
-- Co-development of semi-supervised CNN model for abnormality detection in sweet images.
+- Co-development of semi-supervised CNN model for abnormality detection in dairy product images.
 
 - Backend deep learning algorithm development of [RadAssist](https://www.radassist.net/), a web application for the detection and localization of **Intracranial Hemorrhage** from brain CT images.
 
