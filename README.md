@@ -116,7 +116,9 @@ Research Articles
 ## My Scores:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=tahsin314&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin314&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide=TeX&layout=compact)
-![Top Views](<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5fdyz2lmnn5&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>)
+<!-- Include Revolver Maps Script -->
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5fdyz2lmnn5&m=7&c=e63100&cr1=ffffff&f=arial&l=0&bv=90&lx=-420&ly=420&hi=20&he=7&hc=a8ddff&rs=80" async="async"></script>
+
   
 
 
