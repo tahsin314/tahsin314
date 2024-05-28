@@ -8,10 +8,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
 
-<p align="center">
-    <iframe src="https://rf.revolvermaps.com/h/m/a/6/0/ff0000/960x400/0/0/6s4gk4w5v2h.gif" width="960" height="400" frameborder="0"></iframe>
-</p>
-
 # Research Interests
 
 <span>Machine Learning, Deep Learning, Computer Vision, Natural Language
