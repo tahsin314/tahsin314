@@ -8,19 +8,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
 
-<table>
-    <tr>
-        <td><img src="https://img.icons8.com/ios-glyphs/30/email.png" alt="Email Icon" style="vertical-align:middle;"/> <strong>Email</strong>: <a href="mailto:tahsinmostafiz314@gmail.com">tahsinmostafiz314@gmail.com</a></td>
-    </tr>
-    <tr>
-        <td>🌐 <strong>Portfolio</strong>: <a href="https://tahsin314.github.io">tahsin314.github.io</a></td>
-        <td><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub Icon" style="vertical-align:middle;"/> <strong>GitHub</strong>: <a href="https://github.com/tahsin314">GitHub Profile</a></td>
-    </tr>
-    <tr>
-        <td><img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn Icon" style="vertical-align:middle;"/> <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/tahsin314">LinkedIn Profile</a></td>
-    </tr>
-</table>
-
 ---
 
 ## 🧠 **Summary of Expertise**
@@ -101,12 +88,10 @@ Co-authored multiple publications on AI applications in healthcare, including pa
 
 - **🎓 HERBERT WERTHEIM COLLEGE OF ENGINEERING, ECE Department, UNIVERSITY OF FLORIDA**  
   **Master of Science in Electrical and Computer Engineering**, Graduated: Spring 2024  
-  Major: Signal and Systems | CGPA: 3.77/4.0
-
+  Major: Signal and Systems 
 - **🎓 BANGLADESH UNIVERSITY OF ENGINEERING AND TECHNOLOGY (BUET)**  
   **Bachelor of Science in Electrical and Electronic Engineering**, Graduated: February 2017  
-  Major: Power System | Minor: Electronics | CGPA: 3.23/4.0
-
+  Major: Power System | Minor: Electronics
 ---
 
 ## 📄 **Highlighted Publications**
