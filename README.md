@@ -8,109 +8,106 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
 
-# Research Interests
+# MD Tahsin Mostafiz
 
-<span>Machine Learning, Deep Learning, Computer Vision, Natural Language
-Processing</span>
+**2917 SW 13th Street, Gainesville, Florida, 32608**  
+✉️ [tahsinmostafiz314@gmail.com](mailto:tahsinmostafiz314@gmail.com) | 🌐 [tahsin314.github.io](https://tahsin314.github.io) | 🐱 [GitHub](https://github.com/tahsin314) | 🔗 [LinkedIn](https://www.linkedin.com/in/tahsin314)
 
-# Education
+---
 
-- **Master of Science**, Electrical and Computer Engineering, University of Florida (2021-2024)
-- **Bachelor of Science**, Electrical and Electronic Engineering
-Bangladesh University of Engineering and Technology (BUET) (2012-2017)
+## Summary of Expertise
+**AI and Machine Learning**  
+Developed deep learning models for medical image analysis and NLP tasks.
 
-# Honors and Awards
+**Projects**  
+Led development of AI tools for ICU patient assessment, object detection, and diagnostic support for various data types (e.g., text, numeric, images, GIS data).
 
-- Competition Expert in [Kaggle](https://www.kaggle.com/tahsin) (1 Silver Meal + 1 Bronze Medal)
-- Discussion Expert in [Kaggle](https://www.kaggle.com/tahsin)
-- Second Runner-up, Divisional Champion, 1st Runner-up, [Bangladesh Math Olympiad](https://matholympiad.org.bd/) 2006-08
-</span>
+**Research**  
+Co-authored multiple publications on AI applications in healthcare, including patient acuity assessment, lymph node segmentation, and diagnostic tools.
 
+---
 
-# Work Experience
+## Professional Projects & Experiences
 
-- Machine Learning Engineer, AI Samurai (2019-2020)
-- Machine Learning Researcher, Semion Limited (2017-2019) 
+### ALGORITHM
+- Development of an algorithm for small object detection in CT images using Dense Atrous Spatial Pyramid Pooling and a Spatial Context Network with Reverse Axial Attention.
+- Development of an acuity assessment pipeline for ICU patients, incorporating explainable AI algorithms to identify features contributing to the worsening of patient conditions.
+- Development of a semi-supervised object detection pipeline for electric pole detection from car dashboard camera images using Fast-RCNN with Resnet50 backbone and YoloV4.
+- Co-development of a semi-supervised CNN model for abnormality detection in dairy product images.
+- Backend deep learning algorithm development of [RadAssist](https://radassist.net), a web application for detecting and localizing Intracranial Hemorrhage from brain CT images.
 
-Research Articles
-=================
--   EVHA: Explainable Vision System for Hardware Testing and Assurance - An Overview" MD Mahfuz Al Hasan, **Tahsin Mostafiz**, Thomas An Le, Jake Julia, Nidish      Vashistha,     Shayan Taheri, and Dr. Navid Asadizanjani
--   Pathology Extraction from Chest X-Ray Radiological Reports: A
-    Performance Comparison" **Tahsin Mostafiz**, Dr. Khalid Ashraf
+### TOOL
+- Co-development of a flutter-based android app for electric pole detection from images captured using car dashboard cameras.
+- Co-development of SemRad, an inference tool and a class activation mapping (CAM) Tool Using ResNet101 for detection and localization of abnormalities in chest X-ray images.
+- semDDX, an Android app designed to help users navigate the vast landscape of differential diagnoses (DD).
+- **Symptom Checker** - An Amazon Alexa skill designed to help users detect disease from symptoms.
 
--   Retinal Blood Vessel Segmentation using Residual Block
-    Incorporated U-Net Architecture and Fuzzy Inference System" **Tahsin
-    Mostafiz**, Ismat Jarin, Dr. Shaikh A. Fattah and Dr. Celia Shahnaz;
-    *IEEE WIECON-ECE 2018*.
+### DEEP LEARNING COMPETITIONS
+- Silver Medal in [APTOS 2019 Blindness Detection](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
+- Bronze Medal in [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
 
--   Photoplay: An Android Application to Stimulate Children’s
-    Cognitive Development" Avijit Mitra, **Tahsin Mostafiz**, Raihan Ur
-    Rashid; Humanitarian Technology Conference (R10-HTC), 2017 IEEE
-    Region 10, Dhaka.
+### STUDENT SUPERVISING
+- Mentored an undergraduate student in his thesis work titled “COVID Infection Analysis via Lung Lobe Segmentation using Deep Learning.”
+- Supervised two high-school students to familiarize them with research in hardware security and machine learning under the Student Science Training Program (SSTP).
 
-# Professional Projects
--   **Algorithm**
+---
 
-    -   Head and Neck Cancer staging via lymph node segmentation using
-        Convolutional Neural Network (CNN) and volumetric CT images.
+## Work Experience
 
-    -   Computed Tomography (CT) image reconstruction for Printed
-        Circuit Boards (PCB) with semi-supervised denoising and artifact
-        suppression techniques.
+### Dept. Of BME, University of Florida, Gainesville, FL  
+**OPS STUDENT** (February, 2024 - May, 2024)  
+- Acuity Assessment for patients in ICU using wearable sensors.
+- Mobility Assessment for early predictive analysis of patients’ acuity in ICU using wearable sensors.
 
-    -   Counterfeit IC detection from SEM images of IC backsides using
-        image processing and CNN.
+### Dept. Of ECE, University of Florida, Gainesville, FL  
+**OPS STUDENT** (May, 2023 - February, 2024)  
+- Head and Neck Cancer staging via lymph node segmentation using Convolutional Neural Network (CNN) and volumetric CT images.
+- Head and Neck Squamous Cell Carcinoma (HNSCC) type detection from Dual Energy CT Radiomic features.
 
-    -   Co-development of a semi-supervised CNN model for abnormality
-        detection in dairy product images.
+### AI Samurai Japan Limited, Dhaka, Bangladesh  
+**MACHINE LEARNING ENGINEER** (Dec 2019- Dec 2020)  
+- Semi-supervised anomaly detection task with metric learning loss.
+- Android application development for object detection task.
+- NLP-based sentiment analysis task using transformer language models.
 
-    -   Backend deep learning algorithm development of [
-        ](https://radassist.net/), a web application for the detection
-        and localization of *Intracranial Hemorrhage* from brain CT
-        images.
+### Semion Limited, Dhaka, Bangladesh  
+**MACHINE LEARNING RESEARCHER** (March 2017- May 2019)  
+- Developed DL-based models for disease classification from chest X-ray images.
+- Developed Amazon echo skills and Android app for differential disease analysis.
 
-    -   Sentiment level analysis using transformer based language models
-        for product review task.
+---
 
-    -   Identification of Risk Factors for Heart Disease from *i2b2*
-        dataset Using a Bidirectional LSTM network with 50 Dimensional
-        Glove Word Embedding.
+## Skills
 
--   **Application**
+**Programming Languages**: C, C++, MATLAB, JAVA, Python  
+**Libraries & Frameworks**: OpenCV, BeautifulSoup, Pandas, Pydantic  
+**Machine Learning Frameworks**: Scikit-Learn, Tensorflow, Keras, PyTorch, Pytorch-Lightning, Fast.ai  
+**Integrated Development Environment**: PyCharm, Android Studio, IntelliJ IDEA, Visual Studio, Arduino, ROS  
+**Cloud Platform**: Amazon Web Services (AWS), Google Cloud Platform (GCP)  
+**Hardware**: Arduino, Raspberry Pi, AVR Microcontrollers  
 
-    -   Co-development of a flutter based android app for electric pole
-        detection from images captured using car dashboard cameras.
+---
 
-    -   Co-development of **SemRad**, an inference tool and a class
-        activation mapping (CAM) Tool Using *ResNet101* for Detection
-        and Localization of Abnormalities in Chest X-ray Images for this
-        software.
+## Education
 
-    -   **semDDX**, an Android app was designed to help the users
-        navigate the vast landscape of differential diagnoses (DD) and
-        help medical students to learn DD easily.
+**HERBERT WERTHEIM COLLEGE OF ENGINEERING, ECE Department, UNIVERSITY OF FLORIDA**  
+Master of Science in Electrical and Computer Engineering, Graduated: Spring 2024  
+- Major: Signal and Systems, CGPA: 3.77/4.0
 
-    -   **Differential Diagnoses**, an Amazon Alexa skill was designed
-        to help the users find all differential diagnoses for a symptom.
+**BANGLADESH UNIVERSITY OF ENGINEERING AND TECHNOLOGY (BUET)**  
+Bachelor of Science in Electrical and Electronic Engineering, Graduated: February 2017  
+- Major: Power System, Minor: Electronics, CGPA: 3.23/4.0
 
-    -   **Symptom Checker** an Amazon Alexa skill was designed to help
-        the users detect disease from symptoms.
+---
 
--   **Deep Learning Competitions**
+## Highlighted Publications
 
-    -   Silver Medal in ![APTOS 2019 Blindness Detection](https://www.kaggle.com/competitions/aptos2019-blindness-detection)
+- “The Potential of Wearable Sensors for Assessing Patient Acuity in Intensive Care Unit (ICU)” - Jessica Sena, Tahsin Mostafiz, [preprint](https://arxiv.org/ftp/arxiv/papers/2311/2311.02251.pdf)
+- “Automated Segmentation of Lymph Nodes on Neck CT Scans Using Deep Learning” - Md Mahfuz AlHasan, Saba Ghazi-moghadam, [Journal of Digital Imaging](https://link.springer.com/article/10.1007/s10278-024-01114-w)
+- “EVHA: Explainable Vision System for Hardware Testing and Assurance” - Accepted at ACM JETC
+- “A Web-based Assistive Tool for Emergency Physicians in Diagnosing Intracranial Hemorrhage Subtypes” - [SIIM 2020 Annual Meeting Abstract](https://cdn.ymaws.com/siim.org/resource/resmgr/siim20/abstracts-applied/Hasan_A_Web_Based_Assistive_.pdf)
+- “Pathology Extraction from Chest X-Ray Radiological Reports: A Performance Comparison” - Tahsin Mostafiz, Dr. Khalid Ashraf [arXiv](https://arxiv.org/abs/1812.02305)
 
-    -   Bronze Medal in ![SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
-
--   **Student Supervising**
-
-    -   Mentored an undergraduate student in his thesis work titled
-        *"COVID Infection Analysis via Lung Lobe Segmentation using Deep
-        Learning"*.
-
-    -   Supervised two high-school students to get them familiar with
-        research work in hardware security and machine learning under
-        the *Student Science Training Program (SSTP)*.
 
 ## My Scores:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=tahsin314&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
