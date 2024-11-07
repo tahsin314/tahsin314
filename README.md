@@ -8,18 +8,25 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsin314&theme=onedark" alt="tahsin314" /></a> </p>
 
-# 🌟 **MD Tahsin Mostafiz**
-
-✉️ **Email**: [tahsinmostafiz314@gmail.com](mailto:tahsinmostafiz314@gmail.com)  
-🌐 **Portfolio**: [tahsin314.github.io](https://tahsin314.github.io)  
-🐱 **GitHub**: [GitHub Profile](https://github.com/tahsin314)  
-🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/tahsin314)
+<table>
+    <tr>
+        <td>🏠 <strong>Address</strong>: 2917 SW 13th Street, Gainesville, Florida, 32608</td>
+        <td><img src="https://img.icons8.com/ios-glyphs/30/email.png" alt="Email Icon" style="vertical-align:middle;"/> <strong>Email</strong>: <a href="mailto:tahsinmostafiz314@gmail.com">tahsinmostafiz314@gmail.com</a></td>
+    </tr>
+    <tr>
+        <td>🌐 <strong>Portfolio</strong>: <a href="https://tahsin314.github.io">tahsin314.github.io</a></td>
+        <td><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub Icon" style="vertical-align:middle;"/> <strong>GitHub</strong>: <a href="https://github.com/tahsin314">GitHub Profile</a></td>
+    </tr>
+    <tr>
+        <td><img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn Icon" style="vertical-align:middle;"/> <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/tahsin314">LinkedIn Profile</a></td>
+    </tr>
+</table>
 
 ---
 
 ## 🧠 **Summary of Expertise**
 
-**AI and Machine Learning**  
+**🤖 AI and Machine Learning**  
 Developed deep learning models for medical image analysis and NLP tasks.
 
 **🚀 Projects**  
@@ -82,12 +89,12 @@ Co-authored multiple publications on AI applications in healthcare, including pa
 
 ## 💻 **Skills**
 
-- **Programming Languages**: C, C++, MATLAB, JAVA, Python  
-- **Libraries & Frameworks**: OpenCV, BeautifulSoup, Pandas, Pydantic  
-- **Machine Learning Frameworks**: Scikit-Learn, TensorFlow, Keras, PyTorch, Pytorch-Lightning, Fast.ai  
-- **IDE**: PyCharm, Android Studio, IntelliJ IDEA, Visual Studio, Arduino, ROS  
-- **Cloud Platforms**: AWS, GCP  
-- **Hardware**: Arduino, Raspberry Pi, AVR Microcontrollers  
+- 💻 **Programming Languages**: C, C++, MATLAB, JAVA, Python  
+- 📚 **Libraries & Frameworks**: OpenCV, BeautifulSoup, Pandas, Pydantic  
+- 🧠 **Machine Learning Frameworks**: Scikit-Learn, TensorFlow, Keras, PyTorch, Pytorch-Lightning, Fast.ai  
+- 🛠️ **Integrated Development Environment (IDE)**: PyCharm, Android Studio, IntelliJ IDEA, Visual Studio, Arduino, ROS  
+- ☁️ **Cloud Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP)  
+- 🔌 **Hardware**: Arduino, Raspberry Pi, AVR Microcontrollers  
 
 ---
 
