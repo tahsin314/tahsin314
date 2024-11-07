@@ -10,7 +10,6 @@
 
 <table>
     <tr>
-        <td>🏠 <strong>Address</strong>: 2917 SW 13th Street, Gainesville, Florida, 32608</td>
         <td><img src="https://img.icons8.com/ios-glyphs/30/email.png" alt="Email Icon" style="vertical-align:middle;"/> <strong>Email</strong>: <a href="mailto:tahsinmostafiz314@gmail.com">tahsinmostafiz314@gmail.com</a></td>
     </tr>
     <tr>
